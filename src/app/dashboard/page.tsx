@@ -1,4 +1,4 @@
-import LineChart from "../components/LineChart"
+import LineChart from "@/components/LineChart"
 export default function Dashboard() {
     return (<>
         <h1>Dashboard</h1>
